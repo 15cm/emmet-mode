@@ -66,7 +66,7 @@
       "ins":        {"block": false, "selfClosing": false},
       "kbd":        {"block": false, "selfClosing": false},
       "keygen":     {"block": false, "selfClosing": true},
-      "label":      {"block": false, "selfClosing": false, "defaultAttr": {"for": ""}},
+      "label":      {"block": false, "selfClosing": false},
       "legend":     {"block": false, "selfClosing": false},
       "li":         {"block": false, "selfClosing": false},
       "link":       {"block": false, "selfClosing": true, "defaultAttr": {"rel": "stylesheet", "href": ""}},
